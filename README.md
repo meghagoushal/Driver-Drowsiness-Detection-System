@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Detection-System
+# Driver-Drowsiness-Detection-System (Deep Learning, Keras, TensorFlow, Python, OpenCV)
 
 Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving. In this project Python, OpenCV, TensorFlow and Keras was used to build the model.
 
